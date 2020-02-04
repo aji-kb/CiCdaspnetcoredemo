@@ -1,4 +1,20 @@
 ﻿<Properties StartupConfiguration="{8873BE62-C425-4C5F-B14D-4A584D87E878}|Default">
-  <MonoDevelop.Ide.ItemProperties.CiCdaspnetcore FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.CiCdaspnetcore PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CiCdaspnetcore" expanded="True">
+            <Node name="CiCdaspnetcore" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
