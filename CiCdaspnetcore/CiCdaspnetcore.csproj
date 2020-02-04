@@ -6,4 +6,9 @@
 
 
 
+  <ItemGroup>
+    <ProjectReference Include="..\cicdaspnetcoredemo.data\cicdaspnetcoredemo.data.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+  </ItemGroup>
 </Project>

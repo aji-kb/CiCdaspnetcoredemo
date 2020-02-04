@@ -1,0 +1,7 @@
+/Users/hemadish/dev/learn/CiCdaspnetcore/cicdaspnetcoredemo.data/bin/Debug/netcoreapp3.0/cicdaspnetcoredemo.data.deps.json
+/Users/hemadish/dev/learn/CiCdaspnetcore/cicdaspnetcoredemo.data/bin/Debug/netcoreapp3.0/cicdaspnetcoredemo.data.dll
+/Users/hemadish/dev/learn/CiCdaspnetcore/cicdaspnetcoredemo.data/bin/Debug/netcoreapp3.0/cicdaspnetcoredemo.data.pdb
+/Users/hemadish/dev/learn/CiCdaspnetcore/cicdaspnetcoredemo.data/obj/Debug/netcoreapp3.0/cicdaspnetcoredemo.data.AssemblyInfoInputs.cache
+/Users/hemadish/dev/learn/CiCdaspnetcore/cicdaspnetcoredemo.data/obj/Debug/netcoreapp3.0/cicdaspnetcoredemo.data.AssemblyInfo.cs
+/Users/hemadish/dev/learn/CiCdaspnetcore/cicdaspnetcoredemo.data/obj/Debug/netcoreapp3.0/cicdaspnetcoredemo.data.dll
+/Users/hemadish/dev/learn/CiCdaspnetcore/cicdaspnetcoredemo.data/obj/Debug/netcoreapp3.0/cicdaspnetcoredemo.data.pdb
