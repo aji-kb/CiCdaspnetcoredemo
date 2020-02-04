@@ -34,7 +34,6 @@ steps:
     publishWebProjects: true
     arguments: '--configuration $(buildConfiguration) --output $(Build.ArtifactStagingDirectory)'
     zipAfterPublish: True
-    
 - task: AzureRmWebAppDeployment@4
   inputs:
     ConnectionType: 'AzureRM'
@@ -43,3 +42,4 @@ steps:
     WebAppName: 'cicdaspnetcoredemo'
     packageForLinux: '$(Build.ArtifactStagingDirectory)/**/*.zip'
     RuntimeStack: 'DOTNETCORE|3.0'
+
