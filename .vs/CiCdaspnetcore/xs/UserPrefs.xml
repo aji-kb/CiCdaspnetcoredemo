@@ -1,11 +1,18 @@
 ﻿<Properties StartupConfiguration="{8873BE62-C425-4C5F-B14D-4A584D87E878}|Default">
   <MonoDevelop.Ide.ItemProperties.CiCdaspnetcore PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="CiCdaspnetcore/Pages/Index.cshtml">
+    <Files>
+      <File FileName="CiCdaspnetcore/Pages/Index.cshtml" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CiCdaspnetcore" expanded="True">
-            <Node name="CiCdaspnetcore" expanded="True" selected="True" />
+            <Node name="CiCdaspnetcore" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Index.cshtml" selected="True" />
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>
