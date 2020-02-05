@@ -12,6 +12,7 @@ namespace cicdaspnetcoredemo.data
                 new User { Name="A", PhoneNumber="100"},
                 new User { Name="B", PhoneNumber="200"},
                 new User { Name="C", PhoneNumber="300"}
+                new User { Name="D", PhoneNumber="400"}
             };
         }
 
